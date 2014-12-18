@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://www.heiler24.de/</loc>
+  <priority>0.5</priority>
+  <lastmod>2009-01-06T14:54:06+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.heiler24.de/lebensenergie.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2009-01-06T14:54:34+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.heiler24.de/geistheiler.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2009-01-14T14:54:06+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.heiler24.de/glaube.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2009-01-06T14:54:06+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.heiler24.de/selbstheilung.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2009-01-06T15:54:34+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.heiler24.de/thymusdruese.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2009-01-17T15:54:34+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.heiler24.de/koerper-und-geist.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2009-01-14T15:54:49+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.heiler24.de/energieverlauf.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2009-01-06T15:54:51+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.heiler24.de/pruefmethoden.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2009-01-06T14:54:34+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.heiler24.de/praktische_durchfuehrung.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2009-01-06T14:17:27+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.heiler24.de/zur_person.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2009-01-06T15:54:49+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+
+</urlset>

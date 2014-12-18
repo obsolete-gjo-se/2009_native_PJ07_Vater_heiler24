@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /anhang.htm
+Disallow: /kontakt.htm
+Disallow: /koerper_geist.htm
+Disallow: /heiler.htm
